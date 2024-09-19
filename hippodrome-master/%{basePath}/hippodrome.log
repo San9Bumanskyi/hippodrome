@@ -1,0 +1,24 @@
+2024-09-19 17:40:57.734 INFO [main] [Main.main(Main.java:23)] - Start of the race. Number of participants: 7
+2024-09-19 17:43:08.039 INFO [main] [Main.main(Main.java:23)] - Start of the race. Number of participants: 7
+2024-09-19 17:44:27.790 INFO [main] [Main.main(Main.java:23)] - Start of the race. Number of participants: 7
+2024-09-19 17:44:48.242 INFO [main] [Main.main(Main.java:33)] - End of the race. Winner is Cherry
+2024-09-19 17:46:25.175 INFO [main] [Horse.<init>(Horse.java:14)] - Name is null
+2024-09-19 17:46:25.219 INFO [main] [Horse.<init>(Horse.java:17)] - Name is blank
+2024-09-19 17:46:25.225 INFO [main] [Horse.<init>(Horse.java:17)] - Name is blank
+2024-09-19 17:46:25.227 INFO [main] [Horse.<init>(Horse.java:17)] - Name is blank
+2024-09-19 17:46:25.231 INFO [main] [Horse.<init>(Horse.java:17)] - Name is blank
+2024-09-19 17:46:25.232 INFO [main] [Horse.<init>(Horse.java:17)] - Name is blank
+2024-09-19 17:46:25.234 INFO [main] [Horse.<init>(Horse.java:17)] - Name is blank
+2024-09-19 17:46:25.235 INFO [main] [Horse.<init>(Horse.java:17)] - Name is blank
+2024-09-19 17:46:25.238 INFO [main] [Horse.<init>(Horse.java:21)] - Speed is negative
+2024-09-19 17:46:25.258 INFO [main] [Horse.<init>(Horse.java:25)] - Distance is negative
+2024-09-19 17:51:41.851 INFO [main] [Horse.<init>(Horse.java:33)] - Horse object was created, Name[Bucephalus]; Speed[2.4]; distance[0.0]
+2024-09-19 17:51:41.852 INFO [main] [Horse.<init>(Horse.java:33)] - Horse object was created, Name[Ace of Spades]; Speed[2.5]; distance[0.0]
+2024-09-19 17:51:41.852 INFO [main] [Horse.<init>(Horse.java:33)] - Horse object was created, Name[Zephyr]; Speed[2.6]; distance[0.0]
+2024-09-19 17:51:41.852 INFO [main] [Horse.<init>(Horse.java:33)] - Horse object was created, Name[Blaze]; Speed[2.7]; distance[0.0]
+2024-09-19 17:51:41.852 INFO [main] [Horse.<init>(Horse.java:33)] - Horse object was created, Name[Lobster]; Speed[2.8]; distance[0.0]
+2024-09-19 17:51:41.852 INFO [main] [Horse.<init>(Horse.java:33)] - Horse object was created, Name[Pegasus]; Speed[2.9]; distance[0.0]
+2024-09-19 17:51:41.853 INFO [main] [Horse.<init>(Horse.java:33)] - Horse object was created, Name[Cherry]; Speed[3.0]; distance[0.0]
+2024-09-19 17:51:41.853 INFO [main] [Hippodrome.<init>(Hippodrome.java:24)] - creating Hippodrome, horses - [7]
+2024-09-19 17:51:41.854 INFO [main] [Main.main(Main.java:23)] - Start of the race. Number of participants: 7
+2024-09-19 17:52:02.431 INFO [main] [Main.main(Main.java:33)] - End of the race. Winner is Cherry
